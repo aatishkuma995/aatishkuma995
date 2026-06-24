@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aatish
-**A passionate Cloud Engineer || DevOps Engineer || AWS Community Builder || Kafka Admin from India**
+I am Frontend devloper || Basic knowledge of Excel || I improve my skills every day.
 
 
 ## 🌐 Socials:
